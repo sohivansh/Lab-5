@@ -1,0 +1,19 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles": "sass --watch scss/styles.scss css/styles.css",
+    "scss": "sass --watch scss/bootstrap.scss css/bootstrap.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.85.1"
+  }
+}
